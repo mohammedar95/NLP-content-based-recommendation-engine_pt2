@@ -18,3 +18,8 @@ Our goal here is simple, we will try to get as much information as possible to f
 2. Search these the Movies and TV Shows in TMDB API
 3. Merge new variables into our main df
 4. Build content-based recommendation system based on cosine similarity
+
+# How to Run:
+In the project's root directory:
+* Simply download the data from the data folder
+* Run the notebook and make sure to install required libraries (TMDB, SKLEARN, PANDAS)
