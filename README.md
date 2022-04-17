@@ -1,4 +1,4 @@
-# TMDB Open Source API to apply NLP Content-Based Recommendation System for Streaming App Data | Part 2
+# TMDB Open Source API to apply NLP Content-Based Recommendation System | Streaming App Data (Part 2)
 # Why Part 2?
 
 If we noticed from the data we have from the previous post (Recommendation System Using (Rank, User-User, Matrix Factorization) on Streaming App). We have limited advantages from the dataset. Some of the examples we lack of is:
